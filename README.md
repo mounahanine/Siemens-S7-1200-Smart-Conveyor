@@ -2,9 +2,7 @@
 
 Bienvenue sur mon projet d'automatisation ! Ce projet simule une ligne industrielle intelligente capable de gérer l'accélération d'un moteur sans variateur physique, grâce à un algorithme PLC.
 
-## 📺 Aperçu du système
-*(Ici, les recruteurs verront tes images)*
-> Ce projet combine TIA Portal pour la logique et Factory I/O pour la partie opérative (Jumeau Numérique).
+
 
 ## 🚀 Mes Réalisations Techniques
 
