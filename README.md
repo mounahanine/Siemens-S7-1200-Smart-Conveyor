@@ -12,7 +12,7 @@ Bienvenue sur mon projet d'automatisation ! Ce projet simule une ligne industrie
 * **Sécurité :** Algorithme de remise à zéro automatique (Auto-Reset) en cas d'arrêt d'urgence.
 
 ## 🛠️ Outils Utilisés
-* Siemens TIA Portal V16
+* Siemens TIA Portal V18
 * PLC S7-1200 (CPU 1214C)
 * Factory I/O
 * Langage LADDER
